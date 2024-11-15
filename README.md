@@ -18,8 +18,10 @@
 
   - ⚡ Tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também tenho uma carreira com mais de 5 anos na área de tecnologia, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica, gerenciamento de times e gestão de projetos.
 
-  - 📚🎞 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/s
+  - 📚📽 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eurodriguesg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
