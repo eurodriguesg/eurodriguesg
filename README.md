@@ -10,14 +10,31 @@
 
 ###
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<!-- HTML -->
+<div class="centered-content">
+  <!-- Dropdown -->
+  <details>
+    <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+    - 💬 Tenho 25 anos, atualmente moro no Brasil. Concluí o curso técnico no **SENAI-FATESG**, com o curso **Técnico em Redes**. Atualmente, estou cursando **Ciência da Computação** na **PUCGO**. Estou comprometido em continuar aprimorando minhas habilidades e buscando oportunidades para contribuir com equipes que compartilhem meu desejo de excelência e inovação. Busco crescimento profissional e a oportunidade de fazer a diferença em qualquer projeto em que esteja envolvido.
+    
+    - ⚡ Tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também tenho uma carreira com mais de 5 anos na área de tecnologia, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica, gerenciamento de times e gestão de projetos.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
+    - 📚🎞 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/s
+  </details>
+</div>
+
+<!-- CSS -->
+<style>
+  .centered-content {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;    /* Centraliza verticalmente */
+    height: 100vh;          /* Define altura total da viewport */
+    text-align: center;     /* Centraliza texto dentro do elemento */
+  }
+</style>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eurodriguesg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
