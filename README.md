@@ -118,6 +118,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/eurodriguesg/eurodriguesg/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/eurodriguesg/eurodriguesg/output/snake.svg" alt="Snake animation" />
 
 ###
