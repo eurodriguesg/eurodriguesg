@@ -10,20 +10,18 @@
 
 ###
 
-<div style="text-align: center;">
-
 <!-- Dropdown -->
 <details>
-    <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
     - 💬 Tenho 25 anos, atualmente moro no Brasil. Concluí o curso técnico no **SENAI-FATESG**, com o curso **Técnico em Redes**. Atualmente, estou cursando **Ciência da Computação** na **PUCGO**. Estou comprometido em continuar aprimorando minhas habilidades e buscando oportunidades para contribuir com equipes que compartilhem meu desejo de excelência e inovação. Busco crescimento profissional e a oportunidade de fazer a diferença em qualquer projeto em que esteja envolvido.
-
+    
     - ⚡ Tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também tenho uma carreira com mais de 5 anos na área de tecnologia, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica, gerenciamento de times e gestão de projetos.
 
-    - 📚🎞 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
+    - 📚🎞 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/s
 </details>
 
-
+</div>
 
 
 
