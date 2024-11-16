@@ -140,12 +140,10 @@
   </a>
 </div>
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eurodriguesg/eurodriguesg/output/snake.svg" alt="Snake animation" />
 
-###
 
 &nbsp;<div align="center">
   [![Spotify](https://euspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
