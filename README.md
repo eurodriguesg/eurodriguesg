@@ -133,9 +133,9 @@
 
 </div>
 
-# Meu Currículo
-[📄 Acessar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
+<h2 align="center">Meu Currículo</h2>
 
+[📄 Acessar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
 
 ###
 
