@@ -1,0 +1,20 @@
+
+https://accounts.spotify.com/authorize?client_id=0a45c7351039421e80b65468e6a3ec07&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+
+Crie uma string combinando (por exemplo, ) e codifique em Base64.{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}
+
+SPOTIFY_CLIENT_ID: 0a45c7351039421e80b65468e6a3ec07
+SPOTIFY_SECRET_ID: 15f6c7cda16d4278a0f22bb8ef727c8b
+
+CODE:AQBI-ZoCxfuC2Cx9w8tOKHS0wbompf81zJ7yMUIrKsLA8vhqKI_6sTOTNGwa7zfN7YiOS5ql4gBcjC3m1oLWFQjhnWWj6RhUHDKGR9HqJ-L0jkeIjmbfBk3dT2Zy56OSK1smQdeKC7i3bvxdr-G3C8OzRZh2LJbNViZmpw5lPbWvxFWd27d__lSsAqukaBy349THDpAKVl6sxa1v7GoqxW4i3IO5ZZo5zTjvWhynz3aNm1E7QyU
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic {BASE64}" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQApUnh1CcSXKNCW6pggBbNt8n5GRd70zq7RdP1ChEf2QnOvvYt8MLAcaLoqX9YJmlRI5L30FWMNsGdEEg4aqFDWfhl7HdJzysoiJRAOh5JqMTk5yi5NnBqWbjhTxBjpSJqKwvAvaJdZwfAtOdSh7DRagZ7V97cKcbI0telg6Z92T2RqSesz2cfHr2h85PBKHdamO90b1bV10qogKRio35bRRyFx6cGp6s56oY__Q-TVp7gdEP0" https://accounts.spotify.com/api/token
+
+
+{
+    "access_token": "BQAwPomVvxJplWhfwdzajw85SLYI7U-1QKtvh-VFomDMsY4Qy15FmyEJ_ZzKtYKo8Lg109D9btQNOhkINWA02H8nSoF-IB1qoePcPeGN_LFB5vyQjbPeUoG8nYaDPKO2iHKhZVLwa7dUU1O1uEbCOFFG56S_hseNwZNqf47bu_7Id_cTj3wFgjT1QvGOK_NMI-Dad1dToWBb2rC74YwYTw",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "refresh_token": "AQCdnlOzwrEa6s9sq_cjefHJwHhcx6n2Uy0cpw175OZBoOeIvJicQU9sFFaQ_bosLH8Q4Lqie6_J5GLVeLaN3E1SOQguCGNsYmddmLJM8WYdsFqwblefUc8OGGqFtaxPJ70",
+    "scope": "user-read-currently-playing user-read-recently-played"
+}
