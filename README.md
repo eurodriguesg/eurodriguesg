@@ -135,6 +135,11 @@
 
 <iframe src="https://1drv.ms/b/s!Ap4-oc2e-26LuD1tXynDMGUFh7Zv?embed=1&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
+# Meu Currículo
+[📄 Baixar ou Visualizar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
+[![Visualizar Currículo](https://via.placeholder.com/300x150.png?text=Visualizar+Curr%C3%ADculo)](./CURRICULO-ELISEU_RODRIGUES.pdf)
+
+
 ###
 
 <br clear="both">
