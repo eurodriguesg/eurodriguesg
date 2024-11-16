@@ -127,17 +127,14 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
   <br><br>
-  <a href="curriculo.pdf" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
+  <a href="https://1drv.ms/b/s!Ap4-oc2e-26LuD0lE2MSwAvyFyXa?e=jwQg5B" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Download+CV&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
   </a>
 
 </div>
 
-<iframe src="https://1drv.ms/b/s!Ap4-oc2e-26LuD1tXynDMGUFh7Zv?embed=1&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
-
 # Meu Currículo
-[📄 Baixar ou Visualizar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
-[![Visualizar Currículo](https://via.placeholder.com/300x150.png?text=Visualizar+Curr%C3%ADculo)](./CURRICULO-ELISEU_RODRIGUES.pdf)
+[📄 Acessar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
 
 
 ###
