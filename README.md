@@ -131,8 +131,9 @@
     <img src="https://img.shields.io/static/v1?message=Download+CV&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
   </a>
 
-  <iframe src="https://1drv.ms/b/s!Ap4-oc2e-26LuD1tXynDMGUFh7Zv?embed=1&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 </div>
+
+<iframe src="https://1drv.ms/b/s!Ap4-oc2e-26LuD1tXynDMGUFh7Zv?embed=1&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 ###
 
