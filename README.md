@@ -128,13 +128,18 @@
   </a>
   <br><br>
 <h2 align="center">Meu Currículo</h2>
-  <a href="https://1drv.ms/b/s!Ap4-oc2e-26LuD0lE2MSwAvyFyXa?e=jwQg5B" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
+
+<div align="center">
+  <!-- Botão para download -->
+  <a href="./CURRICULO-ELISEU_RODRIGUES.pdf" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Download&logo=adobeacrobatreader&label=&color=FFFFFF&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="Download"/>
   </a>
-  <a href="./CURRICULO-ELISEU_RODRIGUES.pdf">
-    <img src="https://img.shields.io/badge/-Visualizar-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"  height="35" alt="Visualizar">
+  <!-- Botão para visualizar -->
+  <a href="./CURRICULO-ELISEU_RODRIGUES.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visualizar&logo=file&label=&color=FFFFFF&logoColor=green&labelColor=&style=for-the-badge" height="35" alt="Visualizar">
   </a>
 </div>
+
 
 <br clear="both">
 
