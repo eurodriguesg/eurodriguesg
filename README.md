@@ -11,7 +11,7 @@
 ###
 
 <!-- Dropdown -->
-<details>
+<details align="center">
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 25 anos, atualmente moro no Brasil. Concluí o curso técnico no **SENAI-FATESG**, com o curso **Técnico em Redes**. Atualmente, estou cursando **Ciência da Computação** na **PUC Goiás** Estou comprometido em continuar aprimorando minhas habilidades e buscando oportunidades para contribuir com equipes que compartilhem meu desejo de excelência e inovação. Busco crescimento profissional e a oportunidade de fazer a diferença em qualquer projeto em que esteja envolvido.
