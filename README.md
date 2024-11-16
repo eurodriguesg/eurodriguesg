@@ -131,7 +131,7 @@
 
 <div align="center">
   <!-- Botão para download -->
-  <a href="./CURRICULO-ELISEU_RODRIGUES.pdf" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
+  <a href="https://1drv.ms/b/s!Ap4-oc2e-26LuD0lE2MSwAvyFyXa?e=jwQg5B" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Download&logo=adobeacrobatreader&label=&color=FFFFFF&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="Download"/>
   </a>
   <!-- Botão para visualizar -->
