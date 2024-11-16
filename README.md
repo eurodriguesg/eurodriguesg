@@ -127,17 +127,14 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
   <br><br>
-  <a href="https://1drv.ms/b/s!Ap4-oc2e-26LuD0lE2MSwAvyFyXa?e=jwQg5B" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Download+CV&logo=adobeacrobatreader&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
-  </a>
-
-</div>
-
 <h2 align="center">Meu Currículo</h2>
-
-[📄 Acessar Currículo](./CURRICULO-ELISEU_RODRIGUES.pdf)
-
-###
+  <a href="https://1drv.ms/b/s!Ap4-oc2e-26LuD0lE2MSwAvyFyXa?e=jwQg5B" download="Curriculo_Eliseu_Rodrigues.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Download&logo=adobeacrobatreader&label=&color=FFFFFF&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="Download"/>
+  </a>
+  <a href="./CURRICULO-ELISEU_RODRIGUES.pdf">
+    <img src="https://img.shields.io/badge/-Visualizar-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"  height="35" alt="Visualizar">
+  </a>
+</div>
 
 <br clear="both">
 
