@@ -137,6 +137,7 @@
 ###
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
+[![Spotify](https://euspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jkwphaskdf6nl772cmaoho2kni)
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jkwphaskdf6nl772cmaoho2kni&unique={true|1|on|yes})](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
 
