@@ -139,3 +139,11 @@
 &nbsp;<div align="center">
   [![Spotify](https://euspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=eurodriguesg&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
