@@ -140,4 +140,6 @@
   [![Spotify](https://euspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jkwphaskdf6nl772cmaoho2kni)
 </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0DAWgNSoBXwtvotnJxR35s?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0DAWgNSoBXwtvotnJxR35s?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
